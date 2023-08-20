@@ -44,3 +44,17 @@ body {
   margin-right: 15px;
   margin-top: 20px;
 }
+
+#links p {
+  text-align: center;
+}
+
+a:link {
+  background: white;
+  color: blue;
+  text-decoration-line: none;
+  word-spacing: 10px;
+  
+}
+
+
